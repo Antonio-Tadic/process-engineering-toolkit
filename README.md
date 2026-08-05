@@ -3,6 +3,7 @@ Interactive HTML/CSS tools and templates for Business Process Engineering, proce
 
 ## Available Templates
 * **`process-landscape.html`:** An interactive visual map to structure Management, Core, and Support processes.
+* **`process-fact-sheet.html`:** A structured digital datasheet for individual processes (purpose, trigger, KPIs, and RACI alignment).
 
 ## Features
 * Plain HTML/CSS/JS (no frameworks or extra setup needed)
